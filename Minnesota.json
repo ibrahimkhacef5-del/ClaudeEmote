@@ -1,0 +1,2710 @@
+{
+  "generated": "2026-11-07T13:39:35.524Z",
+  "source": "Roblox Catalog (via roproxy)",
+  "category": "emotes",
+  "total": 300,
+  "emotes": 300,
+  "animations": 0,
+  "dances": [
+    {
+      "id": 93827389277161,
+      "name": "الهالة العائمة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=93827389277161&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "RIP H60GX"
+    },
+    {
+      "id": 84778861391697,
+      "name": "العوم الكسول",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=84778861391697&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "RIP H60GX"
+    },
+    {
+      "id": 107569367358051,
+      "name": "وضع الصورة الشخصية لـ SZA",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=107569367358051&w=420&h=420",
+      "assetType": 61,
+      "price": 60,
+      "creatorName": "verssace"
+    },
+    {
+      "id": 129235776680259,
+      "name": "وضع حزين لطيف",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=129235776680259&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "music&me"
+    },
+    {
+      "id": 123792759108690,
+      "name": "♡وضع الخمول لأرنب كاواي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=123792759108690&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "KittiesDen"
+    },
+    {
+      "id": 109000528975867,
+      "name": "هزة الحاجة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=109000528975867&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "xx,"
+    },
+    {
+      "id": 114058495465478,
+      "name": "يد كبيرة ترمي الرأس للعب",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=114058495465478&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "str!ke a pose"
+    },
+    {
+      "id": 127599789708499,
+      "name": "♡ فتاة لطيفة تجلس بجانب الفقاعات",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=127599789708499&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "str!ke a pose"
+    },
+    {
+      "id": 127716534838948,
+      "name": "وضع الرقص الجذاب للنجم الفائق اللطيف",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=127716534838948&w=420&h=420",
+      "assetType": 61,
+      "price": 65,
+      "creatorName": "<,:"
+    },
+    {
+      "id": 108253370665546,
+      "name": "♡ وضعية الأرنب اللطيفة للغاية والكيوت",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=108253370665546&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "str!ke a pose"
+    },
+    {
+      "id": 84358907843508,
+      "name": "♡ وضعية الفتاة الخجولة المحرجة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=84358907843508&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "str!ke a pose"
+    },
+    {
+      "id": 116666971068445,
+      "name": "♡ هالة فتاة الجلوس العائمة اللطيفة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=116666971068445&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "str!ke a pose"
+    },
+    {
+      "id": 95652264398210,
+      "name": "بلانشي المحتاجة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=95652264398210&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AnonymousGroupHolder"
+    },
+    {
+      "id": 97761168412460,
+      "name": "رقصة V الخاصة بالمحتاجين",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=97761168412460&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AnonymousGroupHolder"
+    },
+    {
+      "id": 130627558304108,
+      "name": "مرح الرنة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=130627558304108&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "slqsh"
+    },
+    {
+      "id": 130282671140286,
+      "name": "إيقاع غرينتش",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=130282671140286&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Lost n' Found"
+    },
+    {
+      "id": 89025841827910,
+      "name": "♡ وضعية الجرو اللطيفة أثناء التوقف",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=89025841827910&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "KittiesDen"
+    },
+    {
+      "id": 126551835662570,
+      "name": "♡ دمية لطيفة في وضعية الجلوس الخاملة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=126551835662570&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "KittiesDen"
+    },
+    {
+      "id": 120467593069258,
+      "name": "♡ أقدام القطة اللطيفة في وضعية الجلوس الخاملة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=120467593069258&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "KittiesDen"
+    },
+    {
+      "id": 71629309942527,
+      "name": "قم بإلقائه",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=71629309942527&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "JT EMOTES"
+    },
+    {
+      "id": 87669989499391,
+      "name": "الرقص طوال اليوم",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=87669989499391&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "GeGeUGC"
+    },
+    {
+      "id": 131568469435592,
+      "name": "ممسحة الزجاج",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=131568469435592&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 129235938798204,
+      "name": "مسترخي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=129235938798204&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 114929060703043,
+      "name": "تأرجح الكاحل",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=114929060703043&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 95957705536675,
+      "name": "النوم السريع",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=95957705536675&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 139138057628990,
+      "name": "موجة النظر إلى الوراء",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=139138057628990&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 71675479939175,
+      "name": "الخد في راحة اليد",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=71675479939175&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 138347485657072,
+      "name": "التواء الأصابع",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=138347485657072&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 140509634746410,
+      "name": "هزة الكلب",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=140509634746410&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 86336285530920,
+      "name": "رقصة الطبقات المتراكمة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=86336285530920&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Emotes & Poses"
+    },
+    {
+      "id": 109339964746720,
+      "name": "🎀 رقصة النهاية للفتى الساحرة المتلألئة (بري كيو)",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=109339964746720&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "InCharacter"
+    },
+    {
+      "id": 117996026867901,
+      "name": "حفلات البيجامات",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=117996026867901&w=420&h=420",
+      "assetType": 61,
+      "price": 90,
+      "creatorName": "00u00_sunny"
+    },
+    {
+      "id": 124301897504527,
+      "name": "🎀 وضعية انتصار الفتاة السحرية اللطيفة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=124301897504527&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "InCharacter"
+    },
+    {
+      "id": 133721052091498,
+      "name": "⏳[محدود] ♡ وضعية الركل المعجبة (في وضع الاستعداد، وضعية) ♡",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=133721052091498&w=420&h=420",
+      "assetType": 61,
+      "price": 50,
+      "creatorName": "Emotey"
+    },
+    {
+      "id": 91906865947439,
+      "name": "♡: وضعية الاسترخاء اللطيفة والمعجبة بالحب",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=91906865947439&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Emotey"
+    },
+    {
+      "id": 123503960345393,
+      "name": "⏳[محدود] ♡ الشريرة في وضع الخمول (خاملة، وضعية) ♡",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=123503960345393&w=420&h=420",
+      "assetType": 61,
+      "price": 50,
+      "creatorName": "Emotey"
+    },
+    {
+      "id": 101402237814472,
+      "name": "♡ وضعية الشريرة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=101402237814472&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Emotey"
+    },
+    {
+      "id": 112927337459822,
+      "name": "⭐ وضع التأمل في مزرعة الهالة اللانهائية",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=112927337459822&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Second Lifers"
+    },
+    {
+      "id": 134323355265587,
+      "name": "ميم قص الشعر القصير (الرقص)",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=134323355265587&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Glam UGC"
+    },
+    {
+      "id": 108900053353826,
+      "name": "الجينز الجديد - ديتو (الرقص)",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=108900053353826&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Glam UGC"
+    },
+    {
+      "id": 96359260921269,
+      "name": "حركة دوران متزلج الجليد بزاوية 360 درجة في فصل الشتاء",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=96359260921269&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Dev_Cham3l3on"
+    },
+    {
+      "id": 76830334362346,
+      "name": "(الأفضل) إيقاع جامال البرازيلي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=76830334362346&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Storm UGCS"
+    },
+    {
+      "id": 80629317922629,
+      "name": "اقفز فوقه",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=80629317922629&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Summerden"
+    },
+    {
+      "id": 108950086383243,
+      "name": "لوسي العائمة في عالم السايبربانك",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=108950086383243&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Iancelot"
+    },
+    {
+      "id": 119877856849331,
+      "name": "[الأفضل] يا حبيبتي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119877856849331&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Emotes UGC's Store"
+    },
+    {
+      "id": 98162070818217,
+      "name": "رقصة الفوضى والحظر 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=98162070818217&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 82188160043606,
+      "name": "الرقصة النهائية 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=82188160043606&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 109993138294809,
+      "name": "رقصة الولايات المتحدة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=109993138294809&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 104730757991761,
+      "name": "رقصة خلط المشروبات 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=104730757991761&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 79231325761166,
+      "name": "رقصة الجوقة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=79231325761166&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 108512410904572,
+      "name": "رقصة الخطوات الصلبة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=108512410904572&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 117546152670430,
+      "name": "رقصة سكوبا 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=117546152670430&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 132393532424243,
+      "name": "خذني إلى رقصة هناك 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=132393532424243&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 137311612115768,
+      "name": "الطفو بالأورا",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=137311612115768&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "zzaee71"
+    },
+    {
+      "id": 91722519593333,
+      "name": "رقصة تيليل 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=91722519593333&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 103190009907825,
+      "name": "رقصة إلقاء المال 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=103190009907825&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 115669713326354,
+      "name": "رقصة الحركة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=115669713326354&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 108310752106401,
+      "name": "رقصة ذات أجواء مبهجة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=108310752106401&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 103675385448989,
+      "name": "مسار الرقص 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=103675385448989&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 112647798382792,
+      "name": "رقصة التسعينات الأنيقة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=112647798382792&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 135152583817102,
+      "name": "رقصة ييرن 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=135152583817102&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 129181704964935,
+      "name": "رقصة ستا ستا 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=129181704964935&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 137989208524637,
+      "name": "رقصة التسوق من النوافذ 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=137989208524637&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 125377170274063,
+      "name": "هناك تذهب للرقص 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=125377170274063&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 126156206911643,
+      "name": "لا يمكنك أبدًا معرفة الرقص 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=126156206911643&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 140531444325567,
+      "name": "رقصة الفانك الأنيقة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=140531444325567&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 115597440543797,
+      "name": "رقصة الدوس الرجعية 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=115597440543797&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 136876549887254,
+      "name": "رقصة موسيقى البوب 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=136876549887254&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 100081185462330,
+      "name": "رقصة الكائنات الفضائية 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=100081185462330&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 132075287936281,
+      "name": "👽ليس بمستواك يا صديقي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=132075287936281&w=420&h=420",
+      "assetType": 61,
+      "price": 79,
+      "creatorName": "Earthlings Not Allowed"
+    },
+    {
+      "id": 121444683505552,
+      "name": "جمال برازيل",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=121444683505552&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "zsn emotes"
+    },
+    {
+      "id": 94958892400075,
+      "name": "رقصة تدي كا أو يو",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=94958892400075&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Spider-Hog Channel Offical Group"
+    },
+    {
+      "id": 82661129939431,
+      "name": "ديجيديغيدا 🔥",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=82661129939431&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "TeBieAiNi'"
+    },
+    {
+      "id": 131839962880709,
+      "name": "رقصة مونتاج روجادا 🎵 كرة السلة صفر بريميوم",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=131839962880709&w=420&h=420",
+      "assetType": 61,
+      "price": 499,
+      "creatorName": "Basketball Zero x RELICSxyz Boombox UGC"
+    },
+    {
+      "id": 135162737388160,
+      "name": "تعبير زين في فورتنايت",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=135162737388160&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Darko’s UGC"
+    },
+    {
+      "id": 122129836189997,
+      "name": "اقفز اقفز اقفز",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=122129836189997&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "76q"
+    },
+    {
+      "id": 121385388732928,
+      "name": "🍰لا يمكنك لمسي يا أخي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=121385388732928&w=420&h=420",
+      "assetType": 61,
+      "price": 79,
+      "creatorName": "Dev_OnCake"
+    },
+    {
+      "id": 136979408394115,
+      "name": "نيون - أ2و لايت",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=136979408394115&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesitt"
+    },
+    {
+      "id": 127061687411053,
+      "name": "وضع الجلوس اللطيف والمثير للفضول",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=127061687411053&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Try That Emotes"
+    },
+    {
+      "id": 74721663236269,
+      "name": "[🎄] عيد الميلاد لرنة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=74721663236269&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Kinshim Studio"
+    },
+    {
+      "id": 130245273263156,
+      "name": "❤️ هزّة القط الصغير 🐱",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=130245273263156&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Kinshim Studio"
+    },
+    {
+      "id": 111704437130778,
+      "name": "❤️ رقصة الخجل والحمرة ❤️",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=111704437130778&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Kinshim Studio"
+    },
+    {
+      "id": 76356904211831,
+      "name": "👉👈 أصابع خجولة 🥰",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=76356904211831&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Kinshim Studio"
+    },
+    {
+      "id": 113958465341502,
+      "name": "$GC$ | امسك بقطعتي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=113958465341502&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "$GUAP CITY$"
+    },
+    {
+      "id": 120653579924734,
+      "name": "رقصة جو الجيرسي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=120653579924734&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Iceman Market"
+    },
+    {
+      "id": 120938370395447,
+      "name": "تحدث بأسلوبك الخاص",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=120938370395447&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "MocapAnimations"
+    },
+    {
+      "id": 73711464220445,
+      "name": "رقصة ساعة الذروة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=73711464220445&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 117325279908610,
+      "name": "رقصة عشوائية 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=117325279908610&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 97429434424594,
+      "name": "رقصة الخلط الخادعة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=97429434424594&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 99985255257503,
+      "name": "رقصة فائقة ورقصة وضعية 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=99985255257503&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 138078280811528,
+      "name": "رقصة الخطوات الكرتونية 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=138078280811528&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 115101208745154,
+      "name": "لا عمود 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=115101208745154&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 109025250444235,
+      "name": "رقصة البنات فقط 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=109025250444235&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 73683147534540,
+      "name": "أنقذ رقصة الطيور 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=73683147534540&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 117071005358164,
+      "name": "رقصة دي جي كاليبير 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=117071005358164&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 139633422026406,
+      "name": "رقصة الليل الصاخبة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=139633422026406&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 93954087462362,
+      "name": "لا رقصة باتيداو 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=93954087462362&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 78787386620655,
+      "name": "رقصة الأشباح 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=78787386620655&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 124451560052708,
+      "name": "رقصة واحدة لي 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=124451560052708&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 131780414332374,
+      "name": "خذك إلى رقصة عالية 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=131780414332374&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 85574988656239,
+      "name": "رقصة الريش البطة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=85574988656239&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 81443262583268,
+      "name": "رقصة الهبوط 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=81443262583268&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 116639355868579,
+      "name": "الرقص غير القانوني 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=116639355868579&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 80070585644015,
+      "name": "رقصة لا تشونا 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=80070585644015&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 73990043375219,
+      "name": "رقصة الفتاة العاشقة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=73990043375219&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 99997362850829,
+      "name": "اليرقات لرقصة الدماغ 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=99997362850829&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 136986505173953,
+      "name": "أحتاج إلى الرقص 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=136986505173953&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 119489477696113,
+      "name": "رقصة غابرييلا 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119489477696113&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 140546824074069,
+      "name": "رقصة الاسترخاء الكسولة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=140546824074069&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 94408456586726,
+      "name": "رقصة القوة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=94408456586726&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 131050346866668,
+      "name": "رقصة جيدة لك 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=131050346866668&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 115122963720285,
+      "name": "رقصة ميو 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=115122963720285&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 92511153303026,
+      "name": "رقصة قوة الحياة للغيتار 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=92511153303026&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 73379574270157,
+      "name": "رقصة التواضع 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=73379574270157&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 71435537916279,
+      "name": "رقصة غوم (البديل) 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=71435537916279&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 80967911643426,
+      "name": "رقصة صالة القلب 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=80967911643426&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 132662120855016,
+      "name": "رقصة مراقبة القمر 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=132662120855016&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 105095699025217,
+      "name": "سيبدأ الرقص 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=105095699025217&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 102586779559488,
+      "name": "حركة (مُكيّفة) للرقص 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=102586779559488&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 131725661214297,
+      "name": "رقصة دي تي إم إف 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=131725661214297&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 108752863789914,
+      "name": "الشهرة هي رقصة البنادق 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=108752863789914&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 71998416241300,
+      "name": "الرقصة الشهيرة 💎 [بريميوم]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=71998416241300&w=420&h=420",
+      "assetType": 61,
+      "price": 99,
+      "creatorName": "RELICSxyz"
+    },
+    {
+      "id": 119850210691794,
+      "name": "رفع الهالة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119850210691794&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "zzaee71"
+    },
+    {
+      "id": 88358648935784,
+      "name": "هالك",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=88358648935784&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Emote Crypt"
+    },
+    {
+      "id": 72451356420557,
+      "name": "✅زراعة الهالة✅",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=72451356420557&w=420&h=420",
+      "assetType": 61,
+      "price": 60,
+      "creatorName": "xxxmmmmjjjjjj"
+    },
+    {
+      "id": 130860716478122,
+      "name": "ذراع سان أنتيز",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=130860716478122&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "The Best Animations"
+    },
+    {
+      "id": 74642437579715,
+      "name": "تأخير المشي المزيف",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=74642437579715&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Na1d1a1v1"
+    },
+    {
+      "id": 73237625661828,
+      "name": "تعبير عن آلاف الأرجل",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=73237625661828&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Iancelot"
+    },
+    {
+      "id": 127825553901021,
+      "name": "🔪 قفزة مايكل مايرز",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=127825553901021&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 119469561510043,
+      "name": "☁️ الرفع الكسول",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119469561510043&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 93578594730884,
+      "name": "رقصة تموج الورك",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=93578594730884&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 76839467972822,
+      "name": "🎀 رقصة الاهتزاز اللطيفة 💕",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=76839467972822&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 80904687755534,
+      "name": "🔥 قفز إيشو سبيد",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=80904687755534&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 100536438465533,
+      "name": "👻 تعبير الرعب المسكون بالسحر",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=100536438465533&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 123949273175112,
+      "name": "[الأفضل] رقصة الغوص",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=123949273175112&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 71180878384617,
+      "name": "مقعد عائم لطيف",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=71180878384617&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 81847967892038,
+      "name": "أسلوب غانغنام",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=81847967892038&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 134500000373246,
+      "name": "رقصة لاتينية فيروسية",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=134500000373246&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 76380477503968,
+      "name": "تعبير الاقتراب بالتهديد",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=76380477503968&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 112928588600758,
+      "name": "رقصة دا كوتو ناي 🔥",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=112928588600758&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 92854916529046,
+      "name": "خلط ثانوس الميم",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=92854916529046&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 105323678065288,
+      "name": "رقصة بينيوايز",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=105323678065288&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 126964827223355,
+      "name": "أريدك أن تعود",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=126964827223355&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 91108554572135,
+      "name": "خذ الل",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=91108554572135&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 90893513835346,
+      "name": "⭐ تبديل ثانوس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=90893513835346&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 137100087927305,
+      "name": "ميم القط السعيد",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=137100087927305&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 137563474704035,
+      "name": "⭐ شعرت بذلك",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=137563474704035&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "half life 4"
+    },
+    {
+      "id": 90495917933065,
+      "name": "تعبير \"بوو\" الرائج الشهير [الأفضل]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=90495917933065&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Xottic's Emotes"
+    },
+    {
+      "id": 116269979567470,
+      "name": "رقستي المميزة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=116269979567470&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "euro's stuff"
+    },
+    {
+      "id": 109068985266145,
+      "name": "لا يمكنك التعجل في اتجاه الكمال",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=109068985266145&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Ody's Animations"
+    },
+    {
+      "id": 119877012695387,
+      "name": "الارتداد السلس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119877012695387&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Lucky Emotes!"
+    },
+    {
+      "id": 95793757604122,
+      "name": "انظر إلى هذا الرقص فقط",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=95793757604122&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Lucky Emotes!"
+    },
+    {
+      "id": 117824975083902,
+      "name": "هجوم أزرق بلمسة جريئة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=117824975083902&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Lucky Emotes!"
+    },
+    {
+      "id": 99268425693923,
+      "name": "رقصة تشيواوا اللطيفة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=99268425693923&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Lucky Emotes!"
+    },
+    {
+      "id": 104080245822529,
+      "name": "رحلة جوية",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=104080245822529&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Lucky Emotes!"
+    },
+    {
+      "id": 92677912648755,
+      "name": "تيك توك - رقصة كيشا",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=92677912648755&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "TaleOfScripting's UGC"
+    },
+    {
+      "id": 80813489437334,
+      "name": "ملف شخصي بوضعية الخمول اللطيفة لشيبى الجذابة والكيوت",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=80813489437334&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "chained heart"
+    },
+    {
+      "id": 71304429187582,
+      "name": "تحول رايدر ريوكي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=71304429187582&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "zhenwon"
+    },
+    {
+      "id": 139910127946206,
+      "name": "عائم انعدام الجاذبية - تعبير مضحك",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=139910127946206&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Grinlight Studio"
+    },
+    {
+      "id": 111276304170296,
+      "name": "رقصة أنوكو",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=111276304170296&w=420&h=420",
+      "assetType": 61,
+      "price": 90,
+      "creatorName": "00u00_sunny"
+    },
+    {
+      "id": 100255065051027,
+      "name": "اتجاه ميكي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=100255065051027&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "cordiyen"
+    },
+    {
+      "id": 100436648177189,
+      "name": "التأرجح القوي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=100436648177189&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "MocapAnimations"
+    },
+    {
+      "id": 107506804822543,
+      "name": "إسقاط الانقسام بالثقب",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=107506804822543&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "MocapAnimations"
+    },
+    {
+      "id": 95365704294100,
+      "name": "تحول الكشافة لعام 2007",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=95365704294100&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "_goofy_stuff_"
+    },
+    {
+      "id": 76608232937712,
+      "name": "هالة بلا رأس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=76608232937712&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "CloriousMorning"
+    },
+    {
+      "id": 107036985887542,
+      "name": "وضع مي مي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=107036985887542&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "supervyland studios"
+    },
+    {
+      "id": 96432994393328,
+      "name": "وضع الجلوس الخجول",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=96432994393328&w=420&h=420",
+      "assetType": 61,
+      "price": 60,
+      "creatorName": "huanwz UGC"
+    },
+    {
+      "id": 119353809568020,
+      "name": "وضع الطيران الهادئ",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119353809568020&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "76q"
+    },
+    {
+      "id": 131100202236334,
+      "name": "🤯 لا تمارين الضغط بالذراعين",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=131100202236334&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "renkatze"
+    },
+    {
+      "id": 123890896920756,
+      "name": "💪 تمارين الضغط بذراع واحدة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=123890896920756&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "renkatze"
+    },
+    {
+      "id": 118100877901020,
+      "name": "💪 تمارين الضغط",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=118100877901020&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "renkatze"
+    },
+    {
+      "id": 73675323493304,
+      "name": "[#SP] الأمور المهمة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=73675323493304&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "#saypink"
+    },
+    {
+      "id": 122211930749380,
+      "name": "♡ وضعية صورة جذابة للساقين ♡",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=122211930749380&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "yugen’"
+    },
+    {
+      "id": 134287386247724,
+      "name": "رقصة كاتساي بادي هوتي فروتي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=134287386247724&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "LoyaltyOvrLuvMati"
+    },
+    {
+      "id": 82152032821279,
+      "name": "🧊 سقوط الجليد",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=82152032821279&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "renkatze"
+    },
+    {
+      "id": 98612962360184,
+      "name": "❄️ رمي كرة الثلج",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=98612962360184&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "renkatze"
+    },
+    {
+      "id": 78693736835510,
+      "name": "الهالة الصاعدة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=78693736835510&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "renkatze"
+    },
+    {
+      "id": 92804732607676,
+      "name": "دوران مضحك",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=92804732607676&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "renkatze"
+    },
+    {
+      "id": 122683417894388,
+      "name": "❄️ تعبير عن الشعور بالبرد",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=122683417894388&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "renkatze"
+    },
+    {
+      "id": 74294800924372,
+      "name": "🦭 الفقمة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=74294800924372&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "renkatze"
+    },
+    {
+      "id": 80744067037199,
+      "name": "❤️ عناق",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=80744067037199&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "renkatze"
+    },
+    {
+      "id": 80309452783758,
+      "name": "وضع الجلوس اللطيف",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=80309452783758&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Catova"
+    },
+    {
+      "id": 71697177080396,
+      "name": "❄️ملاك الثلج❄️ وضعية الاستلقاء اللطيفة المتكررة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=71697177080396&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "evil heads."
+    },
+    {
+      "id": 138496693417902,
+      "name": "أاب روكي - أعمال الشغب (راودي بايَن)",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=138496693417902&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "dugeroni"
+    },
+    {
+      "id": 139024770564999,
+      "name": "رقصة زيرو تو [الأفضل 🔥]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=139024770564999&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "TeBieAiNi'"
+    },
+    {
+      "id": 106877755010195,
+      "name": "بارد جدًا",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=106877755010195&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "SHDWMONKEY"
+    },
+    {
+      "id": 98189708083978,
+      "name": "ربة المنزل - تيت ماكراي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=98189708083978&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "qyurisuu"
+    },
+    {
+      "id": 101830802899536,
+      "name": "رقصة ماذا يحدث في دقيقة واحدة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=101830802899536&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Bolodym"
+    },
+    {
+      "id": 95261351147598,
+      "name": "في دقيقة واحدة الإصدار الأول 🔥",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=95261351147598&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "#wrId"
+    },
+    {
+      "id": 77552347066335,
+      "name": "ركوب على الظهر باستخدام الإصدار الأول (1.0) 🔥",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=77552347066335&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "#wrId"
+    },
+    {
+      "id": 133411008187988,
+      "name": "تعبير الترول المضحك عن الدوران المجنون 🤣 😂",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=133411008187988&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "HappiMochi"
+    },
+    {
+      "id": 71525448321952,
+      "name": "♡ أميرة لطيفة غير تقليدية ♡",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=71525448321952&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Cozy Blox_Emote"
+    },
+    {
+      "id": 136474089034686,
+      "name": "حركة شعر ليون الخاملة - رثاء الرعب",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=136474089034686&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AvatarVerse"
+    },
+    {
+      "id": 94387029330706,
+      "name": "حلقة إعادة الأحلام - رقصة ملائكة الوهم ZZZ",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=94387029330706&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AvatarVerse"
+    },
+    {
+      "id": 116320517291869,
+      "name": "♡ ضغط خدود الأرنب اللطيف ♡",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=116320517291869&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Cozy Blox_Emote"
+    },
+    {
+      "id": 125635205352769,
+      "name": "[محدود] تحدي الرأس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=125635205352769&w=420&h=420",
+      "assetType": 61,
+      "price": 50,
+      "creatorName": "Tangem UGC"
+    },
+    {
+      "id": 128651088481416,
+      "name": "بابا بابا",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=128651088481416&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "koyata0603"
+    },
+    {
+      "id": 133155696009822,
+      "name": "[الأصل] إيلا بييدا - تعديل وضعية موسيقى الفانك البرازيلية",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=133155696009822&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Comunidade C4stell"
+    },
+    {
+      "id": 114634622505691,
+      "name": "عرض الوضعيات",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=114634622505691&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 75264116092823,
+      "name": "أحاديث الطابق",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=75264116092823&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 74977154094839,
+      "name": "هالة الركض البطيء",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=74977154094839&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 107081858221431,
+      "name": "الإسقاط",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=107081858221431&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 78969078469172,
+      "name": "مضخة ضرب الكعب",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=78969078469172&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 95684556999935,
+      "name": "غاضب",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=95684556999935&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 121309576888007,
+      "name": "لطيف إصابة الركبة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=121309576888007&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 122037331377889,
+      "name": "ركلة مرنة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=122037331377889&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "ANIMATIN"
+    },
+    {
+      "id": 79685026022640,
+      "name": "رقصة الصبي السيئ بارا بارا",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=79685026022640&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Gyarufiction"
+    },
+    {
+      "id": 112583357124555,
+      "name": "مُشعل النار",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=112583357124555&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "//Sparkle//"
+    },
+    {
+      "id": 91479001651838,
+      "name": "⏳[محدود] ♡ وضعية الموجة الخجولة من كاوائي كيوتكور ♡",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=91479001651838&w=420&h=420",
+      "assetType": 61,
+      "price": 50,
+      "creatorName": ".L3NXQ"
+    },
+    {
+      "id": 134033718831439,
+      "name": "جيك فانك",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=134033718831439&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Spadez UGC"
+    },
+    {
+      "id": 131987258793964,
+      "name": "بوب بوب! - رقصة إيليت",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=131987258793964&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "playdates"
+    },
+    {
+      "id": 72112519302405,
+      "name": "[محدود] تعبير عن أسلوب غانغنام",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=72112519302405&w=420&h=420",
+      "assetType": 61,
+      "price": 50,
+      "creatorName": "LensEmote"
+    },
+    {
+      "id": 97159061702248,
+      "name": "⏳[محدود] ♡ وضعية التفكير الهادئ المعجبة ♡",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=97159061702248&w=420&h=420",
+      "assetType": 61,
+      "price": 50,
+      "creatorName": "Emotey"
+    },
+    {
+      "id": 82902463673963,
+      "name": "♡ وضعية الخمول اللطيفة التي تعبر عن الأحلام الرقيقة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=82902463673963&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Emotey"
+    },
+    {
+      "id": 135927758114720,
+      "name": "⏳[محدود] ♡ وضعية الملف الشخصي للقطة الكاواي اللطيفة ♡",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=135927758114720&w=420&h=420",
+      "assetType": 61,
+      "price": 50,
+      "creatorName": "Emotey"
+    },
+    {
+      "id": 90506037469180,
+      "name": "♡ وضعية الملف الشخصي للقطة اللطيفة الخاملة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=90506037469180&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Emotey"
+    },
+    {
+      "id": 119434243663009,
+      "name": "⏳[محدود] ♡ وضعية الاستلقاء اللطيفة التي تعبر عن الإعجاب بك ♡",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119434243663009&w=420&h=420",
+      "assetType": 61,
+      "price": 50,
+      "creatorName": "Emotey"
+    },
+    {
+      "id": 121096858384322,
+      "name": "♡ إعجاب بوضعك الخامل",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=121096858384322&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Emotey"
+    },
+    {
+      "id": 103712373265390,
+      "name": "أنت قيد الاعتقال",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=103712373265390&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "The Best Animations"
+    },
+    {
+      "id": 121760794995028,
+      "name": "هزة فلوريدا",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=121760794995028&w=420&h=420",
+      "assetType": 61,
+      "price": 65,
+      "creatorName": "#SWAGGZZ"
+    },
+    {
+      "id": 130759556344407,
+      "name": "جيك فانك [الأفضل]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=130759556344407&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "mBirdz UGC"
+    },
+    {
+      "id": 80309234434813,
+      "name": "الاستعراض بلا رأس - كرة القدم بالرأس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=80309234434813&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "TaleOfScripting's UGC"
+    },
+    {
+      "id": 88874834586193,
+      "name": "الاستعراض بلا رأس - استعرض رأسك بنفسك",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=88874834586193&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "TaleOfScripting's UGC"
+    },
+    {
+      "id": 99552563221320,
+      "name": "فرك الرأس على ركبة شخص راكع للمطابقة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=99552563221320&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Nosalis' Hangout"
+    },
+    {
+      "id": 90167438337721,
+      "name": "فرك الرأس لشخص يقف مطابقًا",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=90167438337721&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Nosalis' Hangout"
+    },
+    {
+      "id": 126385779221198,
+      "name": "كيان طويل القامة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=126385779221198&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Emotes Galore"
+    },
+    {
+      "id": 93457561943951,
+      "name": "الاضطرابات (أنابيب الفوضى) - أاب روكي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=93457561943951&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Legendary Emotes"
+    },
+    {
+      "id": 87004467055778,
+      "name": "رسوم متحركة لمفتاح التوقف المفاجئ",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=87004467055778&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "sharp made this V2"
+    },
+    {
+      "id": 103303920592404,
+      "name": "وضع الموت المزيف في MM2!",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=103303920592404&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Samy's Squad !"
+    },
+    {
+      "id": 71421144750809,
+      "name": "رقصة ثانوس المختلطة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=71421144750809&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "The Emote Plug"
+    },
+    {
+      "id": 131785490886235,
+      "name": "الطيران بشكل لطيف",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=131785490886235&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Lobinho Store"
+    },
+    {
+      "id": 101660823231724,
+      "name": "إصابة في البطن",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=101660823231724&w=420&h=420",
+      "assetType": 61,
+      "price": 75,
+      "creatorName": "coolerenzo3"
+    },
+    {
+      "id": 115369697165201,
+      "name": "رقصة جايكي سوبر فانك",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=115369697165201&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Snow Leopard UGC"
+    },
+    {
+      "id": 91133144065601,
+      "name": "فتحة العدسة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=91133144065601&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "RYBOWE UGC"
+    },
+    {
+      "id": 76912225923534,
+      "name": "تلميع السيف (لليد اليمنى)",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=76912225923534&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Lucky Emotes!"
+    },
+    {
+      "id": 112569966413589,
+      "name": "خذني بعيدًا! طلب لطيف لنقلي إلى مكان أعلى",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=112569966413589&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Lucky Emotes!"
+    },
+    {
+      "id": 92035611029273,
+      "name": "انتشار اتجاه الرقص البرازيلي بشكل فيروسي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=92035611029273&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Storm UGCS"
+    },
+    {
+      "id": 86164811282731,
+      "name": "إيقاع جمال البرازيلي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=86164811282731&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Storm UGCS"
+    },
+    {
+      "id": 74354075609684,
+      "name": "سعال آرثر مورغان في لعبة RDR2",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=74354075609684&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AvatarVerse"
+    },
+    {
+      "id": 118367013246449,
+      "name": "إغراء الغضب الإصدار الثاني",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=118367013246449&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "0nlymee"
+    },
+    {
+      "id": 73367818476766,
+      "name": "رقصة الألعاب النارية - كاتي بيري",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=73367818476766&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "The Emote Plug"
+    },
+    {
+      "id": 104021295332836,
+      "name": "وضع الموت في MM2",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=104021295332836&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Big Bird Creations"
+    },
+    {
+      "id": 117415022865473,
+      "name": "أنا شيطان مع هذا 🔥 (نيل تشوبا)",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=117415022865473&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Orez cw lapte"
+    },
+    {
+      "id": 99032855181801,
+      "name": "مخالب موجهة إليك - سنوو ميي مي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=99032855181801&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AvatarVerse"
+    },
+    {
+      "id": 112408958744984,
+      "name": "الكلب اللطيف الخجول الذي يجلس على ركبتيه دون فعل شيء",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=112408958744984&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesity’s ugc"
+    },
+    {
+      "id": 109965527437924,
+      "name": "كائن لطيف عائم يطفو بلا حركة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=109965527437924&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesity’s ugc"
+    },
+    {
+      "id": 120155123799945,
+      "name": "تعبير للفتيات اللطيفات الواقفات بشكل عكسي (في وضع الخمول)",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=120155123799945&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesity’s ugc"
+    },
+    {
+      "id": 86067849873466,
+      "name": "وضع غريب لطيف مع تعبيرات جذابة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=86067849873466&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesity’s ugc"
+    },
+    {
+      "id": 129704608635826,
+      "name": "تعبير فتاة لطيفة وخجولة تضحك بشكل مضحك",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=129704608635826&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesity’s ugc"
+    },
+    {
+      "id": 105992649980995,
+      "name": "تعبير لطيف عن حركة قدم الجرو",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=105992649980995&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesity’s ugc"
+    },
+    {
+      "id": 113824284435452,
+      "name": "تعبير لطيف لفتاة خجولة ترفع يدها",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=113824284435452&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesity’s ugc"
+    },
+    {
+      "id": 119552402091684,
+      "name": "تعبير فتاة الجنية العائمة اللطيفة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119552402091684&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesity’s ugc"
+    },
+    {
+      "id": 77157686613695,
+      "name": "تعبير الفتاة الخجولة الجذابة وهي تقف",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=77157686613695&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesity’s ugc"
+    },
+    {
+      "id": 97207555768300,
+      "name": "قطة لطيفة ذات أقدام واقفة تعبيرية",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=97207555768300&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesity’s ugc"
+    },
+    {
+      "id": 132287427053774,
+      "name": "تعبير وجه لطيف أثناء الجلوس والراحة بين اليدين",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=132287427053774&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "obesity’s ugc"
+    },
+    {
+      "id": 135813541701119,
+      "name": "الاتجاه السام - بريتني سبيرز",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=135813541701119&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 90030559201230,
+      "name": "الأسلحة المتفجرة - كورتيس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=90030559201230&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 81513065075549,
+      "name": "هكذا نفعل ذلك - مونتيل جوردان",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=81513065075549&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 88556762627686,
+      "name": "هذا وذاك - أطفال ضائعون",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=88556762627686&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 81138992600818,
+      "name": "تيكتونيك - بيني بيناسي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=81138992600818&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 114899595024054,
+      "name": "رقصة فونك البرازيلية",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=114899595024054&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 82327201030276,
+      "name": "تاتش - كوين",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=82327201030276&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 77357565129218,
+      "name": "الساق الكريهة - جيه إس بويز",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=77357565129218&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 123932810248180,
+      "name": "أنفق البيانات - يونغ ميامي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=123932810248180&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 128604871916383,
+      "name": "حصلت على المذكرة - دون توليفير",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=128604871916383&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 119133865257971,
+      "name": "المفتاح العشوائي - اغتنم اليوم",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119133865257971&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 104332512694787,
+      "name": "مي تشيكو - دي جي جوجا",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=104332512694787&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 90322608553463,
+      "name": "ماد تينغ - جوجلرز",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=90322608553463&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 115389256418813,
+      "name": "سديم الحب - ريم",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=115389256418813&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 76864559948895,
+      "name": "الحب والحرب - جي-فانك",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=76864559948895&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 129429010358441,
+      "name": "أنا أرى كريم - ميريو ميديت",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=129429010358441&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 84432513376421,
+      "name": "أكره أنني صنعتك - أريانا جراندي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=84432513376421&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 74784032716060,
+      "name": "جوت جينوغ - كيتشكريغ",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=74784032716060&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 132179978610922,
+      "name": "حلقة غواب - إيميتساوند",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=132179978610922&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 115600499290974,
+      "name": "أعطني كل شيء - بيتبول",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=115600499290974&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 86209853196583,
+      "name": "فاخر - تويس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=86209853196583&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 90689458789054,
+      "name": "إعادة مزج الأناقة - برونو مارس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=90689458789054&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 132009310467300,
+      "name": "كل يوم - أريانا غراندي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=132009310467300&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 119865871317395,
+      "name": "هزاز القلب - تويس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119865871317395&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 119764618564378,
+      "name": "داي داي - شاكيرا 🔥",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119764618564378&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 74326267327646,
+      "name": "لا أستطيع إيقافي - ت와이스",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=74326267327646&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 120514296307505,
+      "name": "الطرق - مرتين",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=120514296307505&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 127455218702575,
+      "name": "كورا كورا - تويس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=127455218702575&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 91151396607534,
+      "name": "مثل أووه-آه - تويس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=91151396607534&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 106061482674144,
+      "name": "ضوء القمر - تويس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=106061482674144&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 132953550372096,
+      "name": "الفتاة ذات اليد اليمنى - مرتين",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=132953550372096&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 109479478377471,
+      "name": "العالم - تويس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=109479478377471&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 92369093216467,
+      "name": "أطلق سراحي - تويس",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=92369093216467&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 78794008634024,
+      "name": "حقيبة الظهر السيئة - رايز",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=78794008634024&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 88261102658265,
+      "name": "إيقاع جمال البرازيلي [الأفضل]",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=88261102658265&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "mBirdz UGC"
+    },
+    {
+      "id": 107284726881489,
+      "name": "الشرير - آي في إي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=107284726881489&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 80849724110480,
+      "name": "الموقف - آي في إي",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=80849724110480&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 111860859324112,
+      "name": "طوال الليل - إيف",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=111860859324112&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "AFTERMOVE"
+    },
+    {
+      "id": 127079609402378,
+      "name": "[التعبير] وضعية الوقوف الخاملة اللطيفة ",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=127079609402378&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "soul tracings"
+    },
+    {
+      "id": 117531864744743,
+      "name": "كل ما أريده لعيد الميلاد",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=117531864744743&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "JustEsquilinho"
+    },
+    {
+      "id": 100664164843237,
+      "name": "♡ ꒱ تعبير عن وضعية الجلوس اللطيفة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=100664164843237&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "nudging"
+    },
+    {
+      "id": 89446378880733,
+      "name": "أوه، رأسي 🔥",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=89446378880733&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Tryman Store"
+    },
+    {
+      "id": 128618785299722,
+      "name": "[ ⭐ ] رقصة غريبة",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=128618785299722&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Apple Gr."
+    },
+    {
+      "id": 119174939068618,
+      "name": "جوتارو",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=119174939068618&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Emote Crypt"
+    },
+    {
+      "id": 82272267504962,
+      "name": "جوزيف جويستار",
+      "type": "emote",
+      "thumbnail": "rbxthumb://type=Asset&id=82272267504962&w=420&h=420",
+      "assetType": 61,
+      "price": 55,
+      "creatorName": "Emote Crypt"
+    }
+  ]
+    }
